@@ -1,13 +1,13 @@
 var contextMenuItem = {
     "id": "searchSocial",
-    "title": "Search for social media",
+    "title": "Social Media search",
     "contexts": ["selection"]
 };
 
 chrome.contextMenus.create(contextMenuItem);
 var contextMenuItem2 = {
     "id": "searchGh",
-    "title": "Search in Greenhouse",
+    "title": "Greenhouse search",
     "contexts": ["selection"]
 };
 chrome.contextMenus.create(contextMenuItem2);
