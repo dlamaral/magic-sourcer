@@ -7,7 +7,7 @@
       "scripts": ["eventPage.js"],
       "persistance": false
     },
-    "permissions": ["activeTab", "contextMenus"],
+    "permissions": ["contextMenus"],
     "icons": {
       "16": "/images/icon16.png",
       "32": "/images/icon32.png",
