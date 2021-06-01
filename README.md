@@ -6,3 +6,5 @@ How it works:
 1) Select a name
 2) Right-click and select option
 3) New tab opens with result
+
+You can select here: https://chrome.google.com/webstore/detail/people-search/nmmanndbkclceopcajdohkjejadopbkc
