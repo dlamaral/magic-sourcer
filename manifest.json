@@ -2,7 +2,7 @@
     "name": "People search",
     "description": "Extension for awesome sourcers 🧙!",
     "version": "1.0",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "background": {
       "scripts": ["eventPage.js"],
       "persistance": false
